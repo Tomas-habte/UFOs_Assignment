@@ -9,4 +9,6 @@ You can then filter by date, city, state, country or shape. You can also use mul
 
 ## Summary
 
-Creating a dynamic webpage with HTML and Bootstrap 
+A drawback of this webpage is that there is no button which removes all the filters applied so you have to first remove each filter individually before you apply a different filter. This drawback could be overcome by adding a button called "Reset Filters" on the webpage. Here are two additional recommendations for further development:
+- Add autocomplete search suggestions for all except the filter date
+- Add a scroll-to-top button since the list is long
